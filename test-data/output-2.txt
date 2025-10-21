@@ -1,0 +1,10 @@
+SUCCESS # GT4500 init
+#first three bullets
+SUCCESS
+SUCCESS
+SUCCESS
+#empty 4 shots
+FAIL
+FAIL
+FAIL
+FAIL
